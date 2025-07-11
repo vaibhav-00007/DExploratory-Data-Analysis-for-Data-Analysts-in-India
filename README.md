@@ -8,7 +8,7 @@ This project is an end-to-end Exploratory Data Analysis (EDA) of the **Data Anal
 - Analyze **salary patterns** across roles, locations, and skills
 - Determine the **most valuable skill combinations**
 - Showcase **real-world data analysis skills** using Python and Jupyter Notebooks
-- 
+
 ## 🛠️ Tools & Libraries Used
 
 For my deep dive into the data analyst job market, I harnessed the power of several key tools:
